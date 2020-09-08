@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">نرم افزار بارکد خوان فروشگاه خلیفه</string>
+    <string name="label_name" >نام</string>
+    <string name="label_address" >آدرس</string>
+    <string name="label_save" >ذخیره</string>
+    <string name="label_zip" >زیپ</string>
+    <string name="label_state" >وضعیت</string>
+    <string name="label_city" >شهر</string>
+    <string name="turn_off_flashlight" />
+    <string name="turn_on_flashlight" >فلش</string>
+    <string name="scan_from_fragment" />
+    <dimen name="material_text_button">14sp</dimen>
+</resources>
